@@ -16,3 +16,23 @@ It includes:
 - Theory and notes (.md files)
 - Daily progress tracking (commits)
 
+  ## Topics Covered
+
+- Basics
+- Identifiers
+- DataTypes
+- Operators
+- Type Conversion
+- Conditional Statements
+- Loops
+- Arrays
+- Strings
+- Functions
+- Lists
+- Tuples
+- Sets
+- Dictionaries
+- Comprehensions
+
+
+
