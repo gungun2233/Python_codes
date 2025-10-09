@@ -1,11 +1,11 @@
-# 🐍 What is Python?
+#  What is Python?
 
 Python is a clear and powerful **object-oriented programming language**, comparable to Perl, Ruby, or Java.  
 It combines the features of C and Java, making it both simple and versatile.
 
 ---
 
-## 🛠️ What Does Object-Oriented Mean?
+##  What Does Object-Oriented Mean?
 
 **Object-Oriented Programming (OOP)** is based on the concept of **Classes (blueprints)** and **Objects (real-world instances)**.  
 
@@ -18,14 +18,14 @@ In Python, everything is an object — integers, strings, lists, and even functi
 
 ---
 
-## 🎯 Why is Python Called Object-Oriented?
+##  Why is Python Called Object-Oriented?
 
 - Every entity in Python belongs to a **class**.  
 - You can perform built-in actions (**methods**) on any object — making Python fully object-oriented.
 
 ---
 
-## ✨ Features of Python
+##  Features of Python
 
 - Easy to learn  
 - High-level language  
@@ -36,7 +36,7 @@ In Python, everything is an object — integers, strings, lists, and even functi
 
 ---
 
-## 📌 What is Python Used For?
+##  What is Python Used For?
 
 - Data Analytics & Visualization  
 - Artificial Intelligence / Machine Learning  
@@ -46,7 +46,7 @@ In Python, everything is an object — integers, strings, lists, and even functi
 
 ---
 
-## 💻 What is Python Bytecode?
+##  What is Python Bytecode?
 
 Bytecode is the **intermediate code** Python creates before running a program.  
 
@@ -55,7 +55,7 @@ Bytecode is the **intermediate code** Python creates before running a program.
 
 ---
 
-## ⚡ The Python Virtual Machine (PVM)
+## The Python Virtual Machine (PVM)
 
 The **PVM** is the engine that executes Python’s bytecode.  
 
@@ -64,7 +64,7 @@ The **PVM** is the engine that executes Python’s bytecode.
 
 ---
 
-## 🏗️ Python Compiler and Execution Flow
+## Python Compiler and Execution Flow
 
 
 1. **Write Source Code** → `.py` file  
@@ -79,7 +79,7 @@ Source Code → Bytecode → Machine Code → Output
 
 ---
 
-## 🛠️ Implementations of Python
+##  Implementations of Python
 
 - **CPython**: Default and most common (written in C)  
 - **Jython**: Written in Java, runs on JVM  
@@ -89,7 +89,7 @@ Source Code → Bytecode → Machine Code → Output
 
 ---
 
-## 🚀 How to Execute Python Programs
+## How to Execute Python Programs
 
 - **Command Line / Terminal**  
 - **IDLE** (Python’s own editor)  
@@ -99,7 +99,7 @@ Source Code → Bytecode → Machine Code → Output
 
 ---
 
-## 📌 Key Takeaways
+## Key Takeaways
 
 - Installing Python = Installing **PVM + Compiler + Libraries**  
 - `.pyc` files are created only for **imported modules**  
