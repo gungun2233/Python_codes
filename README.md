@@ -22,7 +22,9 @@ It includes:
 - [Python Example](https://github.com/gungun2233/Python_codes/blob/f1b63672f51a37edbc80c4d1cfed40c36e0b5d97/basics/python_example.py) - Example Python code
 
 ### Identifiers
-- *Coming soon…*
+- [Identifiers Notes](https://github.com/gungun2233/Python_codes/blob/ee6c09126390b476ac53f658d916c7efc926a2e4/Identifier/Identifier.md) - Theory and explanation
+- [Multiple Assignment code ](https://github.com/gungun2233/Python_codes/blob/ee6c09126390b476ac53f658d916c7efc926a2e4/Identifier/Multiple%20Assignment.py) - Example Python code
+- [Variables code ](https://github.com/gungun2233/Python_codes/blob/ee6c09126390b476ac53f658d916c7efc926a2e4/Identifier/Variables.py) - Example Python code
 
 ### DataTypes
 - *Coming soon…*
@@ -62,6 +64,7 @@ It includes:
 
 ### Comprehensions
 - *Coming soon…*
+
 
 
 
