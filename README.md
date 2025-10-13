@@ -27,8 +27,15 @@ It includes:
 - [Variables code ](https://github.com/gungun2233/Python_codes/blob/ee6c09126390b476ac53f658d916c7efc926a2e4/Identifier/Variables.py) - Example Python code
 
 ### DataTypes
-- *Coming soon…*
-
+- [DataTypes Notes](https://github.com/gungun2233/Python_codes/blob/59601205366159c7164e16e0e55ec7576a41fdda/Datatype/Datatype.md) - Theory and explanation
+- [Check Data Type code ](https://github.com/gungun2233/Python_codes/blob/59601205366159c7164e16e0e55ec7576a41fdda/Datatype/Check%20Data%20Type.py) - Example Python code
+- [Mapping code ](https://github.com/gungun2233/Python_codes/blob/59601205366159c7164e16e0e55ec7576a41fdda/Datatype/Mapping.py) - Example Python code
+- [None Type code ](https://github.com/gungun2233/Python_codes/blob/59601205366159c7164e16e0e55ec7576a41fdda/Datatype/None%20Type.py) - Example Python code
+- [Numeric Types code ](https://github.com/gungun2233/Python_codes/blob/59601205366159c7164e16e0e55ec7576a41fdda/Datatype/Numeric%20Types.py) - Example Python code
+- [Sequences code ](https://github.com/gungun2233/Python_codes/blob/59601205366159c7164e16e0e55ec7576a41fdda/Datatype/Sequences.py) - Example Python code
+- [Sets code ](https://github.com/gungun2233/Python_codes/blob/59601205366159c7164e16e0e55ec7576a41fdda/Datatype/Sets.py) - Example Python code
+- [Type Conversion code ](https://github.com/gungun2233/Python_codes/blob/59601205366159c7164e16e0e55ec7576a41fdda/Datatype/Type%20Conversion.py) - Example Python code
+  
 ### Operators
 - *Coming soon…*
 
@@ -64,6 +71,7 @@ It includes:
 
 ### Comprehensions
 - *Coming soon…*
+
 
 
 
