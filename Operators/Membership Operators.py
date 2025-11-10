@@ -18,4 +18,10 @@ numbers = (1, 2, 3, 4)
 print(2 in numbers)         # True
 print(5 not in numbers)     #  True
 
+# For Dictionaries
+student = {'name': 'Aarav', 'age': 21, 'city': 'Agra'}
+print('name' in student)        # True (checks key)
+print('Aarav' in student)       # False (value, not key)
+print('Aarav' in student.values())  # True (check in values)
+
 
